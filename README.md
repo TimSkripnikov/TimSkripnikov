@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Artyom!
 
-I'm a 2nd-year student at the Institute of Intelligent Robotics, Novosibirsk State University.  
+I'm a 2nd-year student at the Institute of Mechatronics and Robotics, Novosibirsk State University.  
 
 ## My Focus Areas
 
@@ -46,7 +46,6 @@ I'm a 2nd-year student at the Institute of Intelligent Robotics, Novosibirsk Sta
 
 ## Hardware Experience
 
-- Designed and simulated basic ALU architecture
 - Worked with low-level hardware and microcontroller programming
 - Experience in prototyping circuits and logic design
 
