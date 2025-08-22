@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Artyom!
 
-I'm a 3nd-year student at the Institute of Mechatronics and Robotics, Novosibirsk State University.  
+I'm a 2nd-year student at the Institute of Mechatronics and Robotics, Novosibirsk State University.  
 
 ## My Focus Areas
 
