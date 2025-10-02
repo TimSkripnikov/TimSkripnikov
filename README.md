@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Artyom!
 
-I'm a 2nd-year student at the Institute of Mechatronics and Robotics, Novosibirsk State University.  
+I'm a 3-year student at the Institute of Mechatronics and Robotics, Novosibirsk State University.  
 
 ## My Focus Areas
 
--  Machine Learning & Deep Learning
--  Computer Vision (object detection, image processing)
--  Embedded Systems & Microcontrollers
+-  Embedded Systems & Microcontrollers 
+-  Computer Vision & Deep Learning
+
 
 ---
 
@@ -14,9 +14,10 @@ I'm a 2nd-year student at the Institute of Mechatronics and Robotics, Novosibirs
 
 ### Programming Languages
 
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white)
+
 
 ### Python Libraries
 
@@ -24,7 +25,6 @@ I'm a 2nd-year student at the Institute of Mechatronics and Robotics, Novosibirs
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
@@ -47,7 +47,13 @@ I'm a 2nd-year student at the Institute of Mechatronics and Robotics, Novosibirs
 ## Hardware Experience
 
 - Worked with low-level hardware and microcontroller programming
+- On STM32 I Worked with:
+    - RS-485
+    - UART/USART
+    - CAN/CAN-FD
+    - USB
 - Experience in prototyping circuits and logic design
+- 3D-design
 
 ---
 
